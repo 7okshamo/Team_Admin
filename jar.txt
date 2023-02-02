@@ -1,0 +1,2 @@
+ JAR file ==> is the java Archive file using to sorting java program and games in single file 
+, Some contain files that make them work as standalone apps
